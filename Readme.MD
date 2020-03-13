@@ -1,1 +1,1 @@
-Installing and configuring ArgoCD.
+Installing and configuring ArgoCD. Please see wiki,
