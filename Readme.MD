@@ -1,1 +1,1 @@
-Installing and configuring ArgoCD. Please see wiki,
+Installing and configuring ArgoCD. Please see https://github.com/vdsharma/argocd/wiki
